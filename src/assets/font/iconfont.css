@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4398686 */
+  src: url('iconfont.woff2?t=1706599708466') format('woff2'),
+       url('iconfont.woff?t=1706599708466') format('woff'),
+       url('iconfont.ttf?t=1706599708466') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-liaotian:before {
+  content: "\e75a";
+}
+
+.icon-cai:before {
+  content: "\e701";
+}
+
+.icon-zan:before {
+  content: "\e60c";
+}
+
+.icon-tag:before {
+  content: "\e605";
+}
+
+.icon-IMweb_picture:before {
+  content: "\e617";
+}
+
+.icon-IMweb_expression:before {
+  content: "\e618";
+}
+
+.icon-IMweb_Languagecall:before {
+  content: "\e61a";
+}
+
+.icon-IMweb_meeting:before {
+  content: "\e629";
+}
+
+.icon-link:before {
+  content: "\e60d";
+}
+
+.icon-qr-code:before {
+  content: "\e615";
+}
+
+.icon-shoucang:before {
+  content: "\e602";
+}
+
+.icon-user:before {
+  content: "\e608";
+}
+
